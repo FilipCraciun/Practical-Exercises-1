@@ -1,0 +1,14 @@
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+C:\Endava\EndevLocal\Practical-Exercises-1\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
