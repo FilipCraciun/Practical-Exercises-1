@@ -5,7 +5,7 @@ namespace VehicleManagement.Models;
 
 public class Motorcycle : Vehicle, IDriveable
 {
-    public bool HasSidecar { get; set; }
+    public bool HasSideCar { get; set; }
 
     public override void StartEngine()
     {
@@ -19,7 +19,7 @@ public class Motorcycle : Vehicle, IDriveable
 
     public override string ToString()
     {
-        return base.ToString() + $", Sidecar: {(HasSidecar ? "Yes" : "No")}";
+        return base.ToString() + $", Sidecar: {(HasSideCar ? "Yes" : "No")}";
     }
 }
 
