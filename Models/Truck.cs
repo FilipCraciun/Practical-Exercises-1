@@ -5,7 +5,7 @@ namespace VehicleManagement.Models;
 
 public class Truck : Vehicle, IDriveable
 {
-    public double CargoCapacity { get; set; } // in tons
+    public double CargoCapacity { get; set; } 
 
     public override void StartEngine()
     {
@@ -19,7 +19,7 @@ public class Truck : Vehicle, IDriveable
 
     public override string ToString()
     {
-        return base.ToString() + $" | Capacity: {CargoCapacity} tons";
+        return base.ToString() + $", Capacity: {CargoCapacity} tons";
     }
 }
 
