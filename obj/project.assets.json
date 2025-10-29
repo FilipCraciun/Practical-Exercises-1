@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Endava\\EndevLocal\\Practical-Exercises-1\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Endava\\EndevLocal\\Practical-Exercises-1\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Endava\\EndevLocal\\Practical-Exercises-1\\HelloWorld\\VehicleManagement.csproj",
+      "projectName": "VehicleManagement",
+      "projectPath": "C:\\Endava\\EndevLocal\\Practical-Exercises-1\\HelloWorld\\VehicleManagement.csproj",
       "packagesPath": "C:\\Users\\ficraciun\\.nuget\\packages\\",
       "outputPath": "C:\\Endava\\EndevLocal\\Practical-Exercises-1\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
